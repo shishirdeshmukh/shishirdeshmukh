@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shishirdeshmukh
 - 👀 I’m interested in Web Desining and Software Development and Management.
 - 🌱 I’m currently learning JAVA 
-- 💞️ I have Knowledge of Various Coding Languages such as Java , C , C++
+- 💞️ I have Knowledge of Various Coding Languages such as Java , C
 - 📫 You can reach me through My Twitter (Shishirdeshmukh6) or Instagram handle (shishirdeshmukh_)
 
 
