@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shishir and I'm a MCA Student, from Pune</h2>
+<h2 align="left">Hi 👋! My name is Shishir and I'm a Software Engineer from Pune</h2>
 
 ###
 
