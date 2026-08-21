@@ -208,18 +208,6 @@ I'm currently focusing on strengthening my backend engineering skills with **Go*
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shishirdeshmukh&show_icons=true&theme=dracula&hide_border=false" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirdeshmukh&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="left">
