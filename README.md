@@ -228,6 +228,16 @@ I'm currently focusing on strengthening my backend engineering skills with **Go*
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shishirdeshmukh/shishirdeshmukh/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💡 Build. Learn. Ship. Repeat.
