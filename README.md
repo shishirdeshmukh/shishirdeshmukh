@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shishir Deshmukh
+  # Hi 👋, I'm Shishir Deshmukh
 
 ### Software Engineer | Full-Stack Developer | React • Next.js • Node.js • Go
 
@@ -220,16 +220,6 @@ I'm currently focusing on strengthening my backend engineering skills with **Go*
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shishirdeshmukh&theme=dracula&hide_border=false" height="170" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="left">
@@ -245,16 +235,6 @@ I'm currently focusing on strengthening my backend engineering skills with **Go*
 <a href="https://github.com/shishirdeshmukh">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
 </a>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shishirdeshmukh/shishirdeshmukh/output/snake.svg" alt="Snake animation" />
 
 </div>
 
